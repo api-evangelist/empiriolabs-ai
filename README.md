@@ -64,5 +64,30 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-EmpirioLabs AI is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://empiriolabs.ai
+EmpirioLabs AI is a specialized AI inference and integration provider. It hosts open-source models on GPU infrastructure it manages, runs optimized endpoints for proprietary models, helps teams ship their own models to large audiences, and offers on-demand GPU Cloud instances and hosted AI agents.
+
+**Areas:** Company · AI · Inference · Cloud · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://empiriolabs.ai)
+- [Documentation](https://docs.empiriolabs.ai)
+- [Getting started](https://docs.empiriolabs.ai/getting-started)
+- [API reference](https://docs.empiriolabs.ai/llms.txt)
+- [Pricing](https://empiriolabs.ai/pricing)
+- [Sign up](https://platform.empiriolabs.ai/auth/sign-up)
+- [Support](https://docs.empiriolabs.ai/support)
+- [Changelog](https://docs.empiriolabs.ai/documentation/changelog)
+- [Blog](https://empiriolabs.ai/blog)
+- [Terms of service](https://empiriolabs.ai/policy/terms-of-service)
+- [Privacy policy](https://empiriolabs.ai/policy/privacy-policy)
+- [GitHub](https://github.com/EmpirioLabs-AI)
+- [Status](https://status.empiriolabs.ai/)
+
+**APIs profiled:** 6
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/empiriolabs-ai/](https://apis.io/providers/empiriolabs-ai/).
