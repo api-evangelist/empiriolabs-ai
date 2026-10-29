@@ -68,6 +68,83 @@ EmpirioLabs AI is a specialized AI inference and integration provider. It hosts 
 
 **Areas:** Company · AI · Inference · Cloud · Platform
 
+## EmpirioLabs AI on APIs.io
+
+Everything profiled for EmpirioLabs AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/empiriolabs-ai/](https://apis.io/providers/empiriolabs-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [EmpirioLabs AI Chat Completions API](https://apis.io/apis/empiriolabs-ai/empiriolabs-ai-chatcompletions-api/) — The chatCompletions API from EmpirioLabs AI — 1 operation(s) for chatcompletions.
+- [EmpirioLabs AI Completions API](https://apis.io/apis/empiriolabs-ai/empiriolabs-ai-completions-api/) — The completions API from EmpirioLabs AI — 1 operation(s) for completions.
+- [EmpirioLabs AI Gemini API](https://apis.io/apis/empiriolabs-ai/empiriolabs-ai-gemini-api/) — The gemini API from EmpirioLabs AI — 1 operation(s) for gemini.
+- [EmpirioLabs AI Messages API](https://apis.io/apis/empiriolabs-ai/empiriolabs-ai-messages-api/) — The messages API from EmpirioLabs AI — 1 operation(s) for messages.
+- [EmpirioLabs AI Models API](https://apis.io/apis/empiriolabs-ai/empiriolabs-ai-models-api/) — The models API from EmpirioLabs AI — 2 operation(s) for models.
+- [EmpirioLabs AI Responses API](https://apis.io/apis/empiriolabs-ai/empiriolabs-ai-responses-api/) — The responses API from EmpirioLabs AI — 1 operation(s) for responses.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Empiriolabs Ai Agentic Access](https://apis.io/agentic-access/empiriolabs-ai/empiriolabs-ai-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ChatRequest](https://apis.io/schemas/empiriolabs-ai/empiriolabs-ai-chat-request/)
+- [ChatResponse](https://apis.io/schemas/empiriolabs-ai/empiriolabs-ai-chat-response/)
+- [CompletionRequest](https://apis.io/schemas/empiriolabs-ai/empiriolabs-ai-completion-request/)
+- [CompletionResponse](https://apis.io/schemas/empiriolabs-ai/empiriolabs-ai-completion-response/)
+- [ModelDetail](https://apis.io/schemas/empiriolabs-ai/empiriolabs-ai-model-detail/)
+- [Models_listModels_Response_200](https://apis.io/schemas/empiriolabs-ai/empiriolabs-ai-models-list-models-response-200/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Empiriolabs Ai Context](https://apis.io/jsonld/empiriolabs-ai/empiriolabs-ai-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Empiriolabs Ai Openapi Overlay](https://apis.io/overlays/empiriolabs-ai/empiriolabs-ai-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [EmpirioLabs AI API Rules](https://apis.io/rules/empiriolabs-ai/empiriolabs-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Empiriolabs Ai Authentication](https://apis.io/security/empiriolabs-ai/empiriolabs-ai-authentication/)
+- [Empiriolabs Ai Domain Security](https://apis.io/security/empiriolabs-ai/empiriolabs-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Empiriolabs Ai Scopes](https://apis.io/scopes/empiriolabs-ai/empiriolabs-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Empiriolabs Ai Plans Pricing](https://apis.io/plans/empiriolabs-ai/empiriolabs-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Empiriolabs Ai Rate Limits](https://apis.io/rate-limits/empiriolabs-ai/empiriolabs-ai-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -86,8 +163,57 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [GitHub](https://github.com/EmpirioLabs-AI)
 - [Status](https://status.empiriolabs.ai/)
 
-**APIs profiled:** 6
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/empiriolabs-ai/](https://apis.io/providers/empiriolabs-ai/).
+**Kin Score 72.9** — exemplar · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 56.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 65.3 |
+| Developer ergonomics | 85.0 |
+| Access clarity | 73.2 |
+
+**Agent readiness 56.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/empiriolabs-ai/](https://apis.io/providers/empiriolabs-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for EmpirioLabs AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/empiriolabs-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
